@@ -1,0 +1,1 @@
+start javaw -cp . criptografiaMD5
